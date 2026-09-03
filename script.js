@@ -256,9 +256,9 @@ function trocarImagem(escolha) {
     switch(escolha){
         case "1":
           urlNova = 'café.png';
-          textoprincipal.innerText="Como explicar o Sol?";
+          textoprincipal.innerText="O que é a rede cósmica?";
           texto.innerText="paragrafo";
-          descrevefigura.innerText="Imagem do Sol na cor amarela ";
+          descrevefigura.innerText="O cosmo é algo aleatorio ";
           break;
         case "2":
           urlNova = 'cordosol.jfif';
