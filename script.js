@@ -268,7 +268,7 @@ function trocarImagem(escolha) {
           break;
         default:
           urlNova = 'acessibilidade.png';
-          textoprincipal.innerText="O que é Acessibilidade?";
+          textoprincipal.innerText="O que é a acesibilidade para voce?";
           texto.innerText="        A acessibilidade digital permite que qualquer        pessoa utilize sistemas computacionais        independentemente de suas limitações.";
           descrevefigura.innerText="Figura 1 - Pessoa utilizando computador com tecnologia assistiva. ";
           break;
