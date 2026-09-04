@@ -262,15 +262,15 @@ function trocarImagem(escolha) {
           break;
         case "2":
           urlNova = 'cordosol.jfif';
-          textoprincipal.innerText="A verdadeira cor do SOL ";
+          textoprincipal.innerText="O que é o Multiverso? ";
           texto.innerText="O Sol visto a olho nu no espaço é na verdade branco. A coloração amarela que vemos aqui na superfície da Terra é por causa da atmosfera da Terra.";
-          descrevefigura.innerText="Imagem do Sol na cor branca ";
+     ";
           break;
         default:
           urlNova = 'acessibilidade.png';
           textoprincipal.innerText="O que é a acesibilidade para voce?";
           texto.innerText="        A acessibilidade digital permite que qualquer        pessoa utilize sistemas computacionais        independentemente de suas limitações.";
-          descrevefigura.innerText="Figura 1 - Pessoa utilizando computador com tecnologia assistiva. ";
+          descrevefigura.innerText=;
           break;
         }
     imagemnova.src = urlNova;
